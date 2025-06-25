@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1496.4" height="1920.4" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-44.559 -42.527)">
+    <text x="430" y="60" font-family="Arial, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle">Common Voice 15</text>
+    <line x1="229.23" x2="229.23" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="318.46" x2="318.46" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="407.69" x2="407.69" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="496.92" x2="496.92" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="586.15" x2="586.15" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="675.38" x2="675.38" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <text x="130" y="116.63158" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Dutch</text>
+    <rect x="140" y="100" width="40.154" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="100" width="38.369" height="25.263" fill="#2c5282"/>
+    <text x="183.36923" y="116.63158" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.3</text>
+    <text x="130" y="148.21053" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Spanish</text>
+    <rect x="140" y="131.58" width="44.615" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="131.58" width="41.938" height="25.263" fill="#2c5282"/>
+    <text x="186.93846" y="148.21053" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.7</text>
+    <text x="130" y="179.78947" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Korean</text>
+    <rect x="140" y="163.16" width="49.077" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="163.16" width="46.4" height="25.263" fill="#2c5282"/>
+    <text x="191.39999" y="179.78947" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.2</text>
+    <text x="130" y="211.36842" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Italian</text>
+    <rect x="140" y="194.74" width="51.754" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="194.74" width="49.077" height="25.263" fill="#2c5282"/>
+    <text x="194.07692" y="211.36842" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.5</text>
+    <text x="130" y="242.94737" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">German</text>
+    <rect x="140" y="226.32" width="53.538" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="226.32" width="50.862" height="25.263" fill="#2c5282"/>
+    <text x="195.86154" y="242.94737" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.7</text>
+    <text x="130" y="274.52631" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Thai</text>
+    <rect x="140" y="257.89" width="55.323" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="257.89" width="51.754" height="25.263" fill="#2c5282"/>
+    <text x="196.75385" y="274.52631" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.8</text>
+    <text x="130" y="306.10529" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Russian</text>
+    <rect x="140" y="289.47" width="55.323" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="289.47" width="51.754" height="25.263" fill="#2c5282"/>
+    <text x="196.75385" y="306.10529" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.8</text>
+    <text x="130" y="337.6842" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Portuguese</text>
+    <rect x="140" y="321.05" width="56.215" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="321.05" width="52.646" height="25.263" fill="#2c5282"/>
+    <text x="197.64615" y="337.6842" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.9</text>
+    <text x="130" y="369.26315" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Polish</text>
+    <rect x="140" y="352.63" width="57.108" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="352.63" width="53.538" height="25.263" fill="#2c5282"/>
+    <text x="198.53845" y="369.26315" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">6.0</text>
+    <text x="130" y="400.8421" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Indonesian</text>
+    <rect x="140" y="384.21" width="69.6" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="384.21" width="64.246" height="25.263" fill="#2c5282"/>
+    <text x="209.24615" y="400.8421" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.2</text>
+    <text x="130" y="432.42105" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Mandarin (TW)</text>
+    <rect x="140" y="415.79" width="78.523" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="415.79" width="73.169" height="25.263" fill="#2c5282"/>
+    <text x="218.16922" y="432.42105" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">8.2</text>
+    <text x="130" y="464" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Swedish</text>
+    <rect x="140" y="447.37" width="80.308" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="447.37" width="74.062" height="25.263" fill="#2c5282"/>
+    <text x="219.06154" y="464" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">8.3</text>
+    <text x="130" y="495.57895" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Czech</text>
+    <rect x="140" y="478.95" width="87.446" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="478.95" width="80.308" height="25.263" fill="#2c5282"/>
+    <text x="225.30769" y="495.57895" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">9.0</text>
+    <text x="130" y="527.1579" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">English</text>
+    <rect x="140" y="510.53" width="91.015" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="510.53" width="82.985" height="25.263" fill="#2c5282"/>
+    <text x="227.98462" y="527.1579" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">9.3</text>
+    <text x="130" y="558.73682" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Japanese</text>
+    <rect x="140" y="542.11" width="99.938" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="542.11" width="91.908" height="25.263" fill="#2c5282"/>
+    <text x="236.90768" y="558.73682" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.3</text>
+    <text x="130" y="590.3158" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">French</text>
+    <rect x="140" y="573.68" width="105.29" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="573.68" width="96.369" height="25.263" fill="#2c5282"/>
+    <text x="241.36923" y="590.3158" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.8</text>
+    <text x="130" y="621.89471" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Romanian</text>
+    <rect x="140" y="605.26" width="105.29" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="605.26" width="96.369" height="25.263" fill="#2c5282"/>
+    <text x="241.36923" y="621.89471" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.8</text>
+    <text x="130" y="653.47369" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Chinese (CN)</text>
+    <rect x="140" y="636.84" width="107.08" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="636.84" width="97.262" height="25.263" fill="#2c5282"/>
+    <text x="242.26154" y="653.47369" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.9</text>
+    <text x="130" y="685.05261" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Turkish</text>
+    <rect x="140" y="668.42" width="117.78" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="668.42" width="107.08" height="25.263" fill="#2c5282"/>
+    <text x="252.07692" y="685.05261" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">12.0</text>
+    <text x="130" y="716.63159" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Mandarin (CN)</text>
+    <rect x="140" y="700" width="124.92" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="700" width="114.22" height="25.263" fill="#2c5282"/>
+    <text x="259.21539" y="716.63159" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">12.8</text>
+    <text x="130" y="748.21051" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Catalan</text>
+    <rect x="140" y="731.58" width="129.38" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="731.58" width="118.68" height="25.263" fill="#2c5282"/>
+    <text x="263.67694" y="748.21051" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.3</text>
+    <text x="130" y="779.78949" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hungarian</text>
+    <rect x="140" y="763.16" width="130.28" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="763.16" width="119.57" height="25.263" fill="#2c5282"/>
+    <text x="264.56921" y="779.78949" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.4</text>
+    <text x="130" y="811.36841" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Ukrainian</text>
+    <rect x="140" y="794.74" width="132.06" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="794.74" width="121.35" height="25.263" fill="#2c5282"/>
+    <text x="266.35385" y="811.36841" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.6</text>
+    <text x="130" y="842.94739" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Greek</text>
+    <rect x="140" y="826.32" width="133.85" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="826.32" width="122.25" height="25.263" fill="#2c5282"/>
+    <text x="267.24615" y="842.94739" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.7</text>
+    <text x="130" y="874.52631" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Bulgarian</text>
+    <rect x="140" y="857.89" width="139.2" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="857.89" width="127.6" height="25.263" fill="#2c5282"/>
+    <text x="272.60001" y="874.52631" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">14.3</text>
+    <text x="130" y="906.10529" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Arabic</text>
+    <rect x="140" y="889.47" width="147.23" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="889.47" width="134.74" height="25.263" fill="#2c5282"/>
+    <text x="279.73846" y="906.10529" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">15.1</text>
+    <text x="130" y="937.6842" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Serbian</text>
+    <rect x="140" y="921.05" width="153.48" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="921.05" width="140.09" height="25.263" fill="#2c5282"/>
+    <text x="285.09229" y="937.6842" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">15.7</text>
+    <text x="130" y="969.26318" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Macedonian</text>
+    <rect x="140" y="952.63" width="154.37" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="952.63" width="140.98" height="25.263" fill="#2c5282"/>
+    <text x="285.98462" y="969.26318" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">15.8</text>
+    <text x="130" y="1000.8421" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Cantonese (HK)</text>
+    <rect x="140" y="984.21" width="155.26" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="984.21" width="141.88" height="25.263" fill="#2c5282"/>
+    <text x="286.87692" y="1000.8421" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">15.9</text>
+    <text x="130" y="1032.4211" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Latvian</text>
+    <rect x="140" y="1015.8" width="163.29" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1015.8" width="149.02" height="25.263" fill="#2c5282"/>
+    <text x="294.01538" y="1032.4211" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">16.7</text>
+    <text x="130" y="1064" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Slovenian</text>
+    <rect x="140" y="1047.4" width="164.18" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1047.4" width="149.91" height="25.263" fill="#2c5282"/>
+    <text x="294.90771" y="1064" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">16.8</text>
+    <text x="130" y="1095.5789" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hindi</text>
+    <rect x="140" y="1078.9" width="165.08" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1078.9" width="150.8" height="25.263" fill="#2c5282"/>
+    <text x="295.79999" y="1095.5789" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">16.9</text>
+    <text x="130" y="1127.1578" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Galician</text>
+    <rect x="140" y="1110.5" width="175.78" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1110.5" width="160.62" height="25.263" fill="#2c5282"/>
+    <text x="305.61539" y="1127.1578" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">18.0</text>
+    <text x="130" y="1158.7368" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Danish</text>
+    <rect x="140" y="1142.1" width="176.68" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1142.1" width="161.51" height="25.263" fill="#2c5282"/>
+    <text x="306.50769" y="1158.7368" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">18.1</text>
+    <text x="130" y="1190.3158" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Urdu</text>
+    <rect x="140" y="1173.7" width="199.88" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1173.7" width="182.03" height="25.263" fill="#2c5282"/>
+    <text x="327.03076" y="1190.3158" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">20.4</text>
+    <text x="130" y="1221.8948" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Slovak</text>
+    <rect x="140" y="1205.3" width="229.32" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1205.3" width="208.8" height="25.263" fill="#2c5282"/>
+    <text x="353.79999" y="1221.8948" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">23.4</text>
+    <text x="130" y="1253.4736" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hebrew</text>
+    <rect x="140" y="1236.8" width="230.22" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1236.8" width="209.69" height="25.263" fill="#2c5282"/>
+    <text x="354.69232" y="1253.4736" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">23.5</text>
+    <text x="130" y="1285.0526" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Finnish</text>
+    <rect x="140" y="1268.4" width="240.92" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1268.4" width="219.51" height="25.263" fill="#2c5282"/>
+    <text x="364.50769" y="1285.0526" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">24.6</text>
+    <text x="130" y="1316.6316" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Azerbaijani</text>
+    <rect x="140" y="1300" width="242.71" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1300" width="221.29" height="25.263" fill="#2c5282"/>
+    <text x="366.2923" y="1316.6316" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">24.8</text>
+    <text x="130" y="1348.2106" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Lithuanian</text>
+    <rect x="140" y="1331.6" width="270.37" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1331.6" width="246.28" height="25.263" fill="#2c5282"/>
+    <text x="391.27692" y="1348.2106" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">27.6</text>
+    <text x="130" y="1379.7894" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Estonian</text>
+    <rect x="140" y="1363.2" width="292.68" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1363.2" width="266.8" height="25.263" fill="#2c5282"/>
+    <text x="411.79999" y="1379.7894" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">29.9</text>
+    <text x="130" y="1411.3684" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Nynorsk</text>
+    <rect x="140" y="1394.7" width="300.71" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1394.7" width="273.94" height="25.263" fill="#2c5282"/>
+    <text x="418.93848" y="1411.3684" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">30.7</text>
+    <text x="130" y="1442.9474" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Welsh</text>
+    <rect x="140" y="1426.3" width="314.09" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1426.3" width="285.54" height="25.263" fill="#2c5282"/>
+    <text x="430.53845" y="1442.9474" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">32.0</text>
+    <text x="130" y="1474.5264" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Punjabi</text>
+    <rect x="140" y="1457.9" width="339.97" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1457.9" width="309.63" height="25.263" fill="#2c5282"/>
+    <text x="454.63077" y="1474.5264" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">34.7</text>
+    <text x="130" y="1506.1052" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Afrikaans</text>
+    <rect x="140" y="1489.5" width="353.35" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1489.5" width="321.23" height="25.263" fill="#2c5282"/>
+    <text x="466.23077" y="1506.1052" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">36.0</text>
+    <text x="130" y="1537.6842" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Persian</text>
+    <rect x="140" y="1521.1" width="366.74" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1521.1" width="333.72" height="25.263" fill="#2c5282"/>
+    <text x="478.72308" y="1537.6842" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">37.4</text>
+    <text x="130" y="1569.2632" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Basque</text>
+    <rect x="140" y="1552.6" width="381.02" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1552.6" width="347.11" height="25.263" fill="#2c5282"/>
+    <text x="492.1077" y="1569.2632" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">38.9</text>
+    <text x="130" y="1600.8422" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Vietnamese</text>
+    <rect x="140" y="1584.2" width="389.94" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1584.2" width="355.14" height="25.263" fill="#2c5282"/>
+    <text x="500.13846" y="1600.8422" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">39.8</text>
+    <text x="130" y="1632.421" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Bengali</text>
+    <rect x="140" y="1615.8" width="395.29" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1615.8" width="359.6" height="25.263" fill="#2c5282"/>
+    <text x="504.60001" y="1632.421" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">40.3</text>
+    <text x="130" y="1664" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Nepali</text>
+    <rect x="140" y="1647.4" width="396.18" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1647.4" width="360.49" height="25.263" fill="#2c5282"/>
+    <text x="505.49231" y="1664" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">40.4</text>
+    <text x="130" y="1695.579" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Marathi</text>
+    <rect x="140" y="1678.9" width="404.22" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1678.9" width="367.63" height="25.263" fill="#2c5282"/>
+    <text x="512.63074" y="1695.579" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">41.2</text>
+    <text x="130" y="1727.1578" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Belarusian</text>
+    <rect x="140" y="1710.5" width="428.31" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1710.5" width="389.94" height="25.263" fill="#2c5282"/>
+    <text x="534.93848" y="1727.1578" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">43.7</text>
+    <text x="130" y="1758.7368" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Kazakh</text>
+    <rect x="140" y="1742.1" width="466.68" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1742.1" width="424.74" height="25.263" fill="#2c5282"/>
+    <text x="569.73846" y="1758.7368" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">47.6</text>
+    <text x="130" y="1790.3158" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Armenian</text>
+    <rect x="140" y="1773.7" width="472.03" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1773.7" width="429.2" height="25.263" fill="#2c5282"/>
+    <text x="574.20001" y="1790.3158" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">48.1</text>
+    <text x="130" y="1821.8948" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Swahili</text>
+    <rect x="140" y="1805.3" width="502.37" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1805.3" width="456.86" height="25.263" fill="#2c5282"/>
+    <text x="601.86157" y="1821.8948" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">51.2</text>
+    <text x="130" y="1853.4736" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Tamil</text>
+    <rect x="140" y="1836.8" width="505.05" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1836.8" width="459.54" height="25.263" fill="#2c5282"/>
+    <text x="604.53845" y="1853.4736" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">51.5</text>
+    <text x="130" y="1885.0526" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Albanian</text>
+    <rect x="140" y="1868.4" width="546.09" height="25.263" fill="#edf2f7"/>
+    <rect x="140" y="1868.4" width="497.02" height="25.263" fill="#2c5282"/>
+    <text x="642.01538" y="1885.0526" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">55.7</text>
+    <line x1="140" x2="140" y1="100" y2="1900" stroke="#000000" stroke-width="2"/>
+    <line x1="140" x2="720" y1="1900" y2="1900" stroke="#000000" stroke-width="2"/>
+    <line x1="140" x2="140" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="140" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">0</text>
+    <line x1="229.23" x2="229.23" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="229.23077" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">10</text>
+    <line x1="318.46" x2="318.46" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="318.46155" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">20</text>
+    <line x1="407.69" x2="407.69" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="407.69232" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">30</text>
+    <line x1="496.92" x2="496.92" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="496.92307" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">40</text>
+    <line x1="586.15" x2="586.15" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="586.15381" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">50</text>
+    <line x1="675.38" x2="675.38" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="675.38464" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">60</text>
+    <text x="430" y="1960" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">WER or CER (%)</text>
+    <text x="1210" y="60" font-family="Arial, sans-serif" font-size="24px" font-weight="bold" text-anchor="middle">FLEURS</text>
+    <line x1="1009.2" x2="1009.2" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="1098.5" x2="1098.5" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="1187.7" x2="1187.7" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="1276.9" x2="1276.9" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="1366.2" x2="1366.2" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <line x1="1455.4" x2="1455.4" y1="100" y2="1900" stroke="#e2e8f0"/>
+    <text x="910" y="115.80328" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Spanish</text>
+    <rect x="920" y="100" width="26.769" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="100" width="24.985" height="23.607" fill="#2c5282"/>
+    <text x="949.98462" y="115.80328" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">2.8</text>
+    <text x="910" y="145.31148" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Italian</text>
+    <rect x="920" y="129.51" width="28.554" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="129.51" width="26.769" height="23.607" fill="#2c5282"/>
+    <text x="951.76923" y="145.31148" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">3.0</text>
+    <text x="910" y="174.81967" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Korean</text>
+    <rect x="920" y="159.02" width="29.446" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="159.02" width="27.662" height="23.607" fill="#2c5282"/>
+    <text x="952.66156" y="174.81967" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">3.1</text>
+    <text x="910" y="204.32788" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Portuguese</text>
+    <rect x="920" y="188.52" width="39.262" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="188.52" width="36.585" height="23.607" fill="#2c5282"/>
+    <text x="961.58459" y="204.32788" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.1</text>
+    <text x="910" y="233.83606" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">English</text>
+    <rect x="920" y="218.03" width="39.262" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="218.03" width="36.585" height="23.607" fill="#2c5282"/>
+    <text x="961.58459" y="233.83606" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.1</text>
+    <text x="910" y="263.34427" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Polish</text>
+    <rect x="920" y="247.54" width="44.615" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="247.54" width="41.046" height="23.607" fill="#2c5282"/>
+    <text x="966.04614" y="263.34427" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.6</text>
+    <text x="910" y="292.85248" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Catalan</text>
+    <rect x="920" y="277.05" width="46.4" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="277.05" width="42.831" height="23.607" fill="#2c5282"/>
+    <text x="967.83075" y="292.85248" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.8</text>
+    <text x="910" y="322.36066" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Japanese</text>
+    <rect x="920" y="306.56" width="47.292" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="306.56" width="43.723" height="23.607" fill="#2c5282"/>
+    <text x="968.72308" y="322.36066" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.9</text>
+    <text x="910" y="351.86884" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">German</text>
+    <rect x="920" y="336.07" width="47.292" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="336.07" width="43.723" height="23.607" fill="#2c5282"/>
+    <text x="968.72308" y="351.86884" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">4.9</text>
+    <text x="910" y="381.37704" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Russian</text>
+    <rect x="920" y="365.57" width="48.185" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="365.57" width="44.615" height="23.607" fill="#2c5282"/>
+    <text x="969.61536" y="381.37704" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.0</text>
+    <text x="910" y="410.88525" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Dutch</text>
+    <rect x="920" y="395.08" width="49.969" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="395.08" width="46.4" height="23.607" fill="#2c5282"/>
+    <text x="971.40002" y="410.88525" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.2</text>
+    <text x="910" y="440.39343" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">French</text>
+    <rect x="920" y="424.59" width="50.862" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="424.59" width="47.292" height="23.607" fill="#2c5282"/>
+    <text x="972.2923" y="440.39343" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">5.3</text>
+    <text x="910" y="469.90164" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Indonesian</text>
+    <rect x="920" y="454.1" width="58.892" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="454.1" width="54.431" height="23.607" fill="#2c5282"/>
+    <text x="979.43079" y="469.90164" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">6.1</text>
+    <text x="910" y="499.40985" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Ukrainian</text>
+    <rect x="920" y="483.61" width="61.569" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="483.61" width="57.108" height="23.607" fill="#2c5282"/>
+    <text x="982.10767" y="499.40985" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">6.4</text>
+    <text x="910" y="528.91803" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Turkish</text>
+    <rect x="920" y="513.11" width="65.138" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="513.11" width="59.785" height="23.607" fill="#2c5282"/>
+    <text x="984.78461" y="528.91803" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">6.7</text>
+    <text x="910" y="558.42627" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Malay</text>
+    <rect x="920" y="542.62" width="70.492" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="542.62" width="65.138" height="23.607" fill="#2c5282"/>
+    <text x="990.13843" y="558.42627" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.3</text>
+    <text x="910" y="587.93445" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Swedish</text>
+    <rect x="920" y="572.13" width="73.169" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="572.13" width="67.815" height="23.607" fill="#2c5282"/>
+    <text x="992.81537" y="587.93445" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.6</text>
+    <text x="910" y="617.44263" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Mandarin</text>
+    <rect x="920" y="601.64" width="74.062" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="601.64" width="68.708" height="23.607" fill="#2c5282"/>
+    <text x="993.7077" y="617.44263" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.7</text>
+    <text x="910" y="646.95081" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Finnish</text>
+    <rect x="920" y="631.15" width="74.062" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="631.15" width="68.708" height="23.607" fill="#2c5282"/>
+    <text x="993.7077" y="646.95081" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.7</text>
+    <text x="910" y="676.45905" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Norwegian</text>
+    <rect x="920" y="660.66" width="74.954" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="660.66" width="69.6" height="23.607" fill="#2c5282"/>
+    <text x="994.59998" y="676.45905" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">7.8</text>
+    <text x="910" y="705.96722" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Romanian</text>
+    <rect x="920" y="690.16" width="79.415" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="690.16" width="73.169" height="23.607" fill="#2c5282"/>
+    <text x="998.16925" y="705.96722" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">8.2</text>
+    <text x="910" y="735.4754" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Thai</text>
+    <rect x="920" y="719.67" width="81.2" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="719.67" width="74.954" height="23.607" fill="#2c5282"/>
+    <text x="999.95386" y="735.4754" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">8.4</text>
+    <text x="910" y="764.98358" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Vietnamese</text>
+    <rect x="920" y="749.18" width="82.985" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="749.18" width="76.738" height="23.607" fill="#2c5282"/>
+    <text x="1001.7385" y="764.98358" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">8.6</text>
+    <text x="910" y="794.49182" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Slovak</text>
+    <rect x="920" y="778.69" width="89.231" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="778.69" width="82.092" height="23.607" fill="#2c5282"/>
+    <text x="1007.0923" y="794.49182" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">9.2</text>
+    <text x="910" y="824" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Arabic</text>
+    <rect x="920" y="808.2" width="92.8" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="808.2" width="85.662" height="23.607" fill="#2c5282"/>
+    <text x="1010.6616" y="824" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">9.6</text>
+    <text x="910" y="853.50818" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Czech</text>
+    <rect x="920" y="837.7" width="98.154" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="837.7" width="90.123" height="23.607" fill="#2c5282"/>
+    <text x="1015.123" y="853.50818" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.1</text>
+    <text x="910" y="883.01642" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Croatian</text>
+    <rect x="920" y="867.21" width="105.29" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="867.21" width="96.369" height="23.607" fill="#2c5282"/>
+    <text x="1021.3693" y="883.01642" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.8</text>
+    <text x="910" y="912.5246" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Greek</text>
+    <rect x="920" y="896.72" width="106.18" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="896.72" width="97.262" height="23.607" fill="#2c5282"/>
+    <text x="1022.2615" y="912.5246" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">10.9</text>
+    <text x="910" y="942.03278" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Serbian</text>
+    <rect x="920" y="926.23" width="113.32" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="926.23" width="103.51" height="23.607" fill="#2c5282"/>
+    <text x="1028.5077" y="942.03278" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">11.6</text>
+    <text x="910" y="971.54095" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Danish</text>
+    <rect x="920" y="955.74" width="117.78" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="955.74" width="107.08" height="23.607" fill="#2c5282"/>
+    <text x="1032.0769" y="971.54095" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">12.0</text>
+    <text x="910" y="1001.0492" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Bulgarian</text>
+    <rect x="920" y="985.25" width="120.46" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="985.25" width="109.75" height="23.607" fill="#2c5282"/>
+    <text x="1034.7539" y="1001.0492" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">12.3</text>
+    <text x="910" y="1030.5574" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hungarian</text>
+    <rect x="920" y="1014.8" width="123.14" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1014.8" width="112.43" height="23.607" fill="#2c5282"/>
+    <text x="1037.4308" y="1030.5574" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">12.6</text>
+    <text x="910" y="1060.0656" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Filipino</text>
+    <rect x="920" y="1044.3" width="127.6" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1044.3" width="116" height="23.607" fill="#2c5282"/>
+    <text x="1041" y="1060.0656" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.0</text>
+    <text x="910" y="1089.5737" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Bosnian</text>
+    <rect x="920" y="1073.8" width="127.6" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1073.8" width="116" height="23.607" fill="#2c5282"/>
+    <text x="1041" y="1089.5737" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.0</text>
+    <text x="910" y="1119.082" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Galician</text>
+    <rect x="920" y="1103.3" width="128.49" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1103.3" width="116.89" height="23.607" fill="#2c5282"/>
+    <text x="1041.8923" y="1119.082" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">13.1</text>
+    <text x="910" y="1148.5902" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Macedonian</text>
+    <rect x="920" y="1132.8" width="143.66" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1132.8" width="131.17" height="23.607" fill="#2c5282"/>
+    <text x="1056.1692" y="1148.5902" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">14.7</text>
+    <text x="910" y="1178.0984" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hindi</text>
+    <rect x="920" y="1162.3" width="166.86" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1162.3" width="151.69" height="23.607" fill="#2c5282"/>
+    <text x="1076.6923" y="1178.0984" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">17.0</text>
+    <text x="910" y="1207.6066" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Estonian</text>
+    <rect x="920" y="1191.8" width="177.57" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1191.8" width="161.51" height="23.607" fill="#2c5282"/>
+    <text x="1086.5077" y="1207.6066" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">18.1</text>
+    <text x="910" y="1237.1147" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Slovenian</text>
+    <rect x="920" y="1221.3" width="179.35" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1221.3" width="163.29" height="23.607" fill="#2c5282"/>
+    <text x="1088.2924" y="1237.1147" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">18.3</text>
+    <text x="910" y="1266.6229" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Tamil</text>
+    <rect x="920" y="1250.8" width="179.35" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1250.8" width="163.29" height="23.607" fill="#2c5282"/>
+    <text x="1088.2924" y="1266.6229" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">18.3</text>
+    <text x="910" y="1296.1311" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Latvian</text>
+    <rect x="920" y="1280.3" width="190.06" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1280.3" width="173.11" height="23.607" fill="#2c5282"/>
+    <text x="1098.1077" y="1296.1311" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">19.4</text>
+    <text x="910" y="1325.6394" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Azerbaijani</text>
+    <rect x="920" y="1309.8" width="192.74" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1309.8" width="175.78" height="23.607" fill="#2c5282"/>
+    <text x="1100.7847" y="1325.6394" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">19.7</text>
+    <text x="910" y="1355.1476" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Urdu</text>
+    <rect x="920" y="1339.3" width="201.66" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1339.3" width="183.82" height="23.607" fill="#2c5282"/>
+    <text x="1108.8154" y="1355.1476" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">20.6</text>
+    <text x="910" y="1384.6558" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Lithuanian</text>
+    <rect x="920" y="1368.9" width="232" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1368.9" width="211.48" height="23.607" fill="#2c5282"/>
+    <text x="1136.4769" y="1384.6558" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">23.7</text>
+    <text x="910" y="1414.1639" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Hebrew</text>
+    <rect x="920" y="1398.4" width="256.09" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1398.4" width="232.89" height="23.607" fill="#2c5282"/>
+    <text x="1157.8923" y="1414.1639" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">26.1</text>
+    <text x="910" y="1443.6721" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Welsh</text>
+    <rect x="920" y="1427.9" width="280.18" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1427.9" width="255.2" height="23.607" fill="#2c5282"/>
+    <text x="1180.2" y="1443.6721" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">28.6</text>
+    <text x="910" y="1473.1803" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Persian</text>
+    <rect x="920" y="1457.4" width="288.22" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1457.4" width="262.34" height="23.607" fill="#2c5282"/>
+    <text x="1187.3385" y="1473.1803" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">29.4</text>
+    <text x="910" y="1502.6885" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Icelandic</text>
+    <rect x="920" y="1486.9" width="298.03" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1486.9" width="271.26" height="23.607" fill="#2c5282"/>
+    <text x="1196.2615" y="1502.6885" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">30.4</text>
+    <text x="910" y="1532.1968" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Kazakh</text>
+    <rect x="920" y="1516.4" width="317.66" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1516.4" width="289.11" height="23.607" fill="#2c5282"/>
+    <text x="1214.1077" y="1532.1968" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">32.4</text>
+    <text x="910" y="1561.705" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Afrikaans</text>
+    <rect x="920" y="1545.9" width="317.66" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1545.9" width="289.11" height="23.607" fill="#2c5282"/>
+    <text x="1214.1077" y="1561.705" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">32.4</text>
+    <text x="910" y="1591.2131" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Kannada</text>
+    <rect x="920" y="1575.4" width="323.91" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1575.4" width="294.46" height="23.607" fill="#2c5282"/>
+    <text x="1219.4615" y="1591.2131" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">33.0</text>
+    <text x="910" y="1620.7213" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Marathi</text>
+    <rect x="920" y="1604.9" width="334.62" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1604.9" width="304.28" height="23.607" fill="#2c5282"/>
+    <text x="1229.2769" y="1620.7213" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">34.1</text>
+    <text x="910" y="1650.2295" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Swahili</text>
+    <rect x="920" y="1634.4" width="334.62" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1634.4" width="304.28" height="23.607" fill="#2c5282"/>
+    <text x="1229.2769" y="1650.2295" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">34.1</text>
+    <text x="910" y="1679.7377" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Telugu</text>
+    <rect x="920" y="1663.9" width="375.66" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1663.9" width="341.75" height="23.607" fill="#2c5282"/>
+    <text x="1266.7539" y="1679.7377" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">38.3</text>
+    <text x="910" y="1709.2458" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Maori</text>
+    <rect x="920" y="1693.4" width="389.94" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1693.4" width="355.14" height="23.607" fill="#2c5282"/>
+    <text x="1280.1384" y="1709.2458" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">39.8</text>
+    <text x="910" y="1738.7542" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Nepali</text>
+    <rect x="920" y="1723" width="394.4" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1723" width="358.71" height="23.607" fill="#2c5282"/>
+    <text x="1283.7078" y="1738.7542" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">40.2</text>
+    <text x="910" y="1768.2623" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Armenian</text>
+    <rect x="920" y="1752.5" width="414.03" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1752.5" width="376.55" height="23.607" fill="#2c5282"/>
+    <text x="1301.5538" y="1768.2623" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">42.2</text>
+    <text x="910" y="1797.7705" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Belarusian</text>
+    <rect x="920" y="1782" width="416.71" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1782" width="379.23" height="23.607" fill="#2c5282"/>
+    <text x="1304.2307" y="1797.7705" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">42.5</text>
+    <text x="910" y="1827.2787" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Gujarati</text>
+    <rect x="920" y="1811.5" width="464.89" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1811.5" width="422.95" height="23.607" fill="#2c5282"/>
+    <text x="1347.9539" y="1827.2787" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">47.4</text>
+    <text x="910" y="1856.7869" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Punjabi</text>
+    <rect x="920" y="1841" width="475.6" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1841" width="432.77" height="23.607" fill="#2c5282"/>
+    <text x="1357.7693" y="1856.7869" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">48.5</text>
+    <text x="910" y="1886.295" font-family="Arial, sans-serif" font-size="12px" text-anchor="end">Bengali</text>
+    <rect x="920" y="1870.5" width="490.77" height="23.607" fill="#edf2f7"/>
+    <rect x="920" y="1870.5" width="446.15" height="23.607" fill="#2c5282"/>
+    <text x="1371.1538" y="1886.295" font-family="Arial, sans-serif" font-size="11px" font-weight="bold">50.0</text>
+    <line x1="920" x2="920" y1="100" y2="1900" stroke="#000000" stroke-width="2"/>
+    <line x1="920" x2="1500" y1="1900" y2="1900" stroke="#000000" stroke-width="2"/>
+    <line x1="920" x2="920" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="920" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">0</text>
+    <line x1="1009.2" x2="1009.2" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1009.2308" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">10</text>
+    <line x1="1098.5" x2="1098.5" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1098.4615" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">20</text>
+    <line x1="1187.7" x2="1187.7" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1187.6924" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">30</text>
+    <line x1="1276.9" x2="1276.9" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1276.9231" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">40</text>
+    <line x1="1366.2" x2="1366.2" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1366.1538" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">50</text>
+    <line x1="1455.4" x2="1455.4" y1="1900" y2="1905" stroke="#000000" stroke-width="2"/>
+    <text x="1455.3846" y="1925" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">60</text>
+    <text x="1210" y="1960" font-family="Arial, sans-serif" font-size="14px" text-anchor="middle">WER or CER (%)</text>
+    <rect x="1360" y="80" width="180" height="100" rx="5" ry="5" fill="#ffffff" stroke="#cbd5e0" stroke-width="2"/>
+    <text x="1450" y="105" font-family="Arial, sans-serif" font-size="18px" font-weight="bold" text-anchor="middle">Model</text>
+    <rect x="1380" y="120" width="30" height="20" fill="#2c5282"/>
+    <text x="1420" y="135" font-family="Arial, sans-serif" font-size="16px">large-v3</text>
+    <rect x="1380" y="155" width="30" height="20" fill="#edf2f7"/>
+    <text x="1420" y="170" font-family="Arial, sans-serif" font-size="16px">large-v2</text>
+  </g>
+</svg>
