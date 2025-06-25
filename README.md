@@ -70,7 +70,7 @@ A professional-grade audio transcription tool with advanced preprocessing capabi
 
 **Windows (PowerShell):**
 
-[Use the provided PowerShell installer script](ffmpeg_installer.ps1)
+[Use the provided PowerShell installer script](assets/ffmpeg_installer.ps1)
 
 > **Note:** The FFmpeg installer PowerShell script uses a default directory path that might not be suitable for your use case. Make sure to change the directory path to where you want to save the executable and the binary files.
 
