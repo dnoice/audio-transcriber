@@ -937,4 +937,4 @@ For a complete list, see the [Whisper documentation](https://github.com/openai/w
 
 *If you find this project helpful, please consider giving it a ⭐!*
 
-**Special thanks to the absurdist narratives of Whisperton McTranscribe and the rebellious integer 7 for making transcription testing infinitely more entertaining!**s
+**Special thanks to the absurdist narratives of Whisperton McTranscribe and the rebellious integer 7 for making transcription testing infinitely more entertaining!**
