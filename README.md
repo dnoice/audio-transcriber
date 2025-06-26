@@ -7,7 +7,7 @@
 
 A professional-grade audio transcription tool with advanced preprocessing capabilities, parallel batch processing, and multiple output formats. Powered by OpenAI's Whisper model and optimized for challenging audio conditions.
 
-## 🎯 Ready to Use - Sample Audio Included!
+## 🎯 Ready to Use - Sample Audio Included
 
 **No hunting for test files!** This tool comes with two professionally recorded sample audio files in the `assets/` folder, ready for immediate experimentation:
 
@@ -25,11 +25,13 @@ A professional-grade audio transcription tool with advanced preprocessing capabi
 During development, we made a surprising discovery: when the narrator concentrated on reading complex text carefully, the transcription AI began detecting their speech as "Australian English" instead of their native accent! This led to cascading transcription errors that were completely solved by forcing the language setting to English.
 
 **What this means for you:**
+
 - Use `--language en` for concentrated reading or formal speech
 - Different cognitive states can affect transcription accuracy
 - The tool's preprocessing and language forcing features can compensate for these effects
 
 Try it yourself! Compare these two commands on the sample files:
+
 ```bash
 # Let AI auto-detect language (may detect unexpected accents)
 python audio_transcribe.py assets/mathematical-case-study.m4a
@@ -63,14 +65,16 @@ During development and testing, we made several fascinating discoveries about ho
 ### Implications for Transcription Accuracy
 
 **What affects your transcription:**
+
 - **Cognitive Load**: Concentrating on unfamiliar text changes speech patterns
-- **Reading vs. Speaking**: "Reading voice" differs acoustically from conversational speech  
+- **Reading vs. Speaking**: "Reading voice" differs acoustically from conversational speech
 - **Language Detection Cascade**: Wrong language detection → poor phonetic mapping → transcription errors
 - **Model Size Matters**: Larger models handle prosodic variations better
 
 ### Practical Solutions
 
 **For Improved Accuracy:**
+
 ```bash
 # Force language detection for concentrated reading
 python audio_transcribe.py lecture_recording.mp3 --language en
@@ -93,8 +97,9 @@ python audio_transcribe.py interview.mp3 --format json --word-timestamps
 ### Why This Matters
 
 This research has broader implications for:
+
 - **Educators** recording lectures or reading materials
-- **Podcasters** and **audiobook narrators** 
+- **Podcasters** and **audiobook narrators**
 - **Professional transcription** of formal speech
 - **Accessibility tools** for careful or deliberate speech patterns
 - **AI training data** collection and validation
@@ -705,17 +710,20 @@ python audio_transcribe.py --input-dir client_interviews/ \
 #### Language Detection Problems
 
 **Symptoms:**
+
 - Transcription contains bizarre word substitutions
 - Academic terms become random words
 - Proper names get completely mangled
 - High error rate despite clear audio
 
 **Example from our testing:**
+
 - "Dr. Margaret Pemberton" → "Dr. pembledon"
-- "theoretical numerology" → "theatrical normalogy"  
+- "theoretical numerology" → "theatrical normalogy"
 - "unprecedented event" → "unauthorised sentence"
 
 **Solution:**
+
 ```bash
 # Force language instead of auto-detection
 python audio_transcribe.py audio.mp3 --language en --model medium
@@ -729,6 +737,7 @@ python audio_transcribe.py audio.mp3 --verbose
 #### Testing with Sample Files
 
 **Reproduce the language detection issue:**
+
 ```bash
 # May show "Australian English" detection and transcription errors
 python audio_transcribe.py assets/mathematical-case-study.m4a --model base --verbose
@@ -740,12 +749,14 @@ python audio_transcribe.py assets/mathematical-case-study.m4a --model medium --l
 #### Poor Transcription Quality
 
 **For reading voice or formal speech:**
-1. **Force language detection**: `--language en` 
+
+1. **Force language detection**: `--language en`
 2. **Use larger model**: `--model medium` or `--model large`
 3. **Check confidence scores**: `--format json` to identify problem areas
 4. **Compare preprocessing**: Try with and without `--no-preprocess`
 
 **For noisy or unclear audio:**
+
 1. **Enable preprocessing** (default behavior)
 2. **Adjust noise reduction**: `--noise-reduction 0.5` for very noisy audio
 3. **Boost voice frequencies**: `--voice-boost 2.0 --clarity-boost 1.5`
@@ -775,6 +786,7 @@ ffmpeg -version
 ### Debugging with Sample Files
 
 **Test your setup:**
+
 ```bash
 # Quick system test
 python audio_transcribe.py assets/mathematical-case-study.m4a --model tiny
@@ -789,6 +801,7 @@ python audio_transcribe.py assets/whisperton-mcTranscribe.m4a \
 ```
 
 **Compare language detection:**
+
 ```bash
 # Let AI auto-detect (may show unexpected language)
 python audio_transcribe.py assets/mathematical-case-study.m4a --format json
@@ -907,7 +920,7 @@ For a complete list, see the [Whisper documentation](https://github.com/openai/w
 
 ### Supported Formats
 
-**Audio**: MP3, WAV, FLAC, OGG, M4A, WMA, AAC, OPUS, WEBM, M4B  
+**Audio**: MP3, WAV, FLAC, OGG, M4A, WMA, AAC, OPUS, WEBM, M4B
 **Video**: MP4, AVI, MKV (audio track extraction)
 
 ---
